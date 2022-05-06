@@ -7,4 +7,4 @@
 
 
 
-![Pychain Ledger Image from Streamlit](Images/streamlit.jpg)
+![Pychain Ledger Image from Streamlit](Images/Streamlit.png)
